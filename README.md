@@ -1,5 +1,5 @@
 # mac-dev
-Initial instructions to set up my Mac dev environment
+These are instructions to set up my Mac development environment.
 
 ## Dependencies
 1. git - installed by osx (accept agreement)
