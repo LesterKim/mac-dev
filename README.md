@@ -13,3 +13,7 @@ brew install reattach-to-user-namespace    # fixes some annoying tmux shortcomin
 brew install vim                           # replaces system vim with vim8
 
 ```
+
+## Essential Software
+- [Alfred](https://www.alfredapp.com/) - Spotlight replacement
+- [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - window manager
