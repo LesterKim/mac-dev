@@ -7,11 +7,16 @@ These are instructions to set up my Mac development environment.
 
 ```bash
 # make sure /usr/local/bin comes before /usr/bin in $PATH
-
+brew install htop
 brew install tmux
 brew install reattach-to-user-namespace       # fixes some annoying tmux shortcomings on osx
 brew install vim --with-python3 --with-lua    # replaces system vim with vim8 w/python and lua support
 
+```
+
+## Modules
+```bash
+npm i -g vtop  # Better top program
 ```
 
 ## Essential Software
