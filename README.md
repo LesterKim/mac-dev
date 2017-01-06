@@ -17,7 +17,8 @@ brew install vim --with-python3 --with-lua    # replaces system vim with vim8 w
 ## Modules
 ```bash
 npm i -g vtop         # Better top program
-npm i -g speed-test   # speed test
+npm i -g speed-test   # Internet speed test
+npm i -g git-release  # Release script
 ```
 
 ## Essential Software
