@@ -11,6 +11,7 @@ brew install htop
 brew install tmux
 brew install reattach-to-user-namespace       # fixes some annoying tmux shortcomings on osx
 brew install vim --with-python3 --with-lua    # replaces system vim with vim8 w/python and lua support
+brew install git-extras
 
 ```
 
